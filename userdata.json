@@ -1,0 +1,203 @@
+[
+    {
+        "movieName":"3",
+        "DirectorName":"Aishwarya Rajinikanth",
+        "ReleasedYear":"2012",
+        "MovieType":"Romantic Pyschological Triller",
+         "Actor":"Dhanush",
+         "actress":"ShruthiKhasan",
+         "Language":"Tamil"
+    },
+
+    {
+        "movieName":"Vinnaithaandi Varuvaaya",
+        "DirectorName":"Gautham Vasudev Menon",
+        "ReleasedYear":"2010",
+        "MovieType":"romantic love",
+         "Actor":"Simbu",
+         "actress":"Thrisha",
+         "Language":"Tamil"
+    },
+
+    {
+        "movieName":"Alaipayuthae",
+        "DirectorName":"ManiRathnam",
+        "ReleasedYear":"2000",
+        "MovieType":"romantic",
+         "Actor":"Madhavan",
+         "actress":"Shalini",
+         "Language":"Tamil"
+    },
+
+    {
+        "movieName":"RajaRani",
+        "DirectorName":"Atlee Kumar",
+        "ReleasedYear":"2013",
+        "MovieType":"love",
+         "Actor":"Arya",
+         "actress":"Nayanthara",
+         "Language":"Tamil"
+    },
+    
+    {
+        "movieName":"Vaaranam Aayiram",
+        "DirectorName":"Gautham Vasudev Menon",
+        "ReleasedYear":"2008",
+        "MovieType":"love",
+         "Actor":"Surya",
+         "actress":"Sameera Reddy",
+         "Language":"Tamil"
+    },
+
+    {
+        "movieName":"Ok Kanmani",
+        "DirectorName":"Mani Rathnam",
+        "ReleasedYear":"2015",
+        "MovieType":"romantic",
+         "Actor":"Dulquer Salman",
+         "actress":"Nithya Menon",
+         "Language":"Tamil"
+    },
+
+    {
+        "movieName":"Hrithayam",
+        "DirectorName":"Vineeth Sreenivasan",
+        "ReleasedYear":"2022",
+        "MovieType":"romantic",
+         "Actor":"Pranav Mohanlal",
+         "actress":"Kalyani Priyadarshan",
+         "Language":"Malayalam"
+    },
+
+    {
+        "movieName":"Premam",
+        "DirectorName":"Alphonse Puthren",
+        "ReleasedYear":"2015",
+        "MovieType":"love",
+         "Actor":"Nivin Pauly",
+         "actress":"Sai Pallavi",
+         "Language":"Malayalam"
+    },
+
+    {
+        "movieName":"Thunivu",
+        "DirectorName":"H.Vinoth",
+        "ReleasedYear":"2023",
+        "MovieType":"Mystery Thriller",
+         "Actor":"Ajith Kumar",
+         "actress":"Manju Warrier",
+         "Language":"Tamil"
+    },
+
+    {
+        "movieName":"Rangasthalam",
+        "DirectorName":"Sukumar",
+        "ReleasedYear":"2018",
+        "MovieType":"Action",
+         "Actor":"Ram Charan",
+         "actress":"Samantha",
+         "Language":"Telugu"
+    },
+
+    {
+        "movieName":"RRR",
+        "DirectorName":"S. S. Rajamouli",
+        "ReleasedYear":"2022",
+        "MovieType":"Action",
+         "Actor":"Ram Charan",
+         "actress":"Alia Bhatt",
+         "Language":"Telugu"
+    },
+
+    {
+        "movieName":"KGF 2",
+        "DirectorName":"Prasanth Neel",
+        "ReleasedYear":"2022",
+        "MovieType":"Action",
+         "Actor":"Yash",
+         "actress":"Srinidhi Shetty",
+         "Language":"Tamil"
+    },
+
+    {
+        "movieName":"Bahubali 2",
+        "DirectorName":"S. S. Rajamouli",
+        "ReleasedYear":"2017",
+        "MovieType":"Action",
+         "Actor":"Prabhas",
+         "actress":"Anushka Shetty",
+         "Language":"Tamil"
+    },
+
+    {
+        "movieName":"Magadheera",
+        "DirectorName":"S. S. Rajamouli",
+        "ReleasedYear":"2009",
+        "MovieType":"Action Romance",
+         "Actor":"Ram Charan",
+         "actress":"Kajal Aggarwal",
+         "Language":"Telugu"
+    },
+
+    {
+        "movieName":"Varisu",
+        "DirectorName":"Vamshi Paidipally",
+        "ReleasedYear":"2023",
+        "MovieType":"Action Drama",
+         "Actor":"Vijay",
+         "actress":"Rashmika Mandanna",
+         "Language":"Tamil"
+    },
+
+    {
+        "movieName":"Ponniyin Selvam 1",
+        "DirectorName":"Mani Rathnam",
+        "ReleasedYear":"2022",
+        "MovieType":"Action Adventure",
+         "Actor":"Vikram",
+         "actress":"Aishwarya Rai",
+         "Language":"Tamil"
+    },
+
+    {
+        "movieName":"Don",
+        "DirectorName":"Cibi Chakarvarthi",
+        "ReleasedYear":"2022",
+        "MovieType":"Action Love",
+         "Actor":"Sivarkarthikeyan",
+         "actress":"Priyanka Mohan",
+         "Language":"Tamil"
+    },
+
+    {
+        "movieName":"Beast",
+        "DirectorName":"Nelson Dilipkumar",
+        "ReleasedYear":"2022",
+        "MovieType":"Action Crime",
+         "Actor":"Vijay",
+         "actress":"Pooja Hedge",
+         "Language":"Tamil"
+    },
+
+    {
+        "movieName":"Valimai",
+        "DirectorName":"H.Vinoth",
+        "ReleasedYear":"2022",
+        "MovieType":"Action Thriller",
+         "Actor":"Ajith Kumar",
+         "actress":"Huma Qureshi",
+         "Language":"Tamil"
+    },
+
+    {
+        "movieName":"Imaika Nodigal",
+        "DirectorName":"R. Ajay Gnanmuthu",
+        "ReleasedYear":"2018",
+        "MovieType":"Thriller",
+         "Actor":"Atharva",
+         "actress":"Nayanthara",
+         "Language":"Tamil"
+    }
+
+    
+]
