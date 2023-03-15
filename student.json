@@ -1,0 +1,50 @@
+[
+{
+ "studentname":"Ram",
+ "studentID":"120",
+ "standard":"2-std",
+"section":"A-section",
+"fee":"30000" 
+},
+{
+    "studentname":"Raj",
+    "studentID":"121",
+    "standard":"2-std",
+   "section":"A-section",
+   "fee":"32000" 
+   },
+   {
+    "studentname":"Smithy",
+    "studentID":"122",
+    "standard":"3-std",
+   "section":"A-section",
+   "fee":"40000" 
+   },
+   {
+    "studentname":"Mithra",
+    "studentID":"123",
+    "standard":"4-std",
+   "section":"C-section",
+   "fee":"60000" 
+   },
+   {
+    "studentname":"Virat Kholi",
+    "studentID":"124",
+    "standard":"5-std",
+   "section":"A-section",
+   "fee":"60000" 
+   },
+   {
+    "studentname":"Anushka",
+    "studentID":"125",
+    "standard":"5-std",
+   "section":"B-section",
+   "fee":"70000" 
+   }
+   
+   
+   
+   
+   
+
+]
